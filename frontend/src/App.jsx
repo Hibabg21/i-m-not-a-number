@@ -39,7 +39,7 @@ function App() {
 
   
   useEffect(() => {
-    fetch(process.env.PUBLIC_URL + "/killed-in-gaza-v3.json")
+    fetch("/killed-in-gaza-v3.json")
       .then((res) => res.json())
       .then((rawData) => {
         const realPeopleRows = rawData.slice(1)
@@ -68,7 +68,7 @@ function App() {
   
   useEffect(() => {
     if (!audioRef.current) {
-      audioRef.current = new Audio(process.env.PUBLIC_URL + "/audio.mp3")
+      audioRef.current  = new Audio("/audio.mp3")
       audioRef.current.loop = true
       audioRef.current.volume = 0.25 
     }
