@@ -33,7 +33,7 @@ The goal of this project is to transform cold data into human emotion and awaren
 
 # 🚀 How to Run Locally
 ## 1. Clone the repo
-git clone 
+git clone [https://github.com/Hibabg21/im-not-a-number]
 
 ## 2. Install dependencies
 npm install
@@ -70,5 +70,5 @@ It is a reminder that every number was once a life.
 
 
 ## 💡 Acknowledgments
-- Data Source: [https://data.techforpalestine.org/][]
+- Data Source: [https://data.techforpalestine.org/]
 - Inspiration: Inspired by the original [I'm Not A Number](https://i-am-not-a-number-palestine.github.io/) project.
