@@ -24,8 +24,6 @@ The goal of this project is to transform cold data into human emotion and awaren
 - 💬 Rotating emotional captions
 - 📱 Responsive fullscreen experience
 
-# 🧠 Concept
-This project is inspired by the idea of site :  [Visit this Website](https://i-am-not-a-number-palestine.github.io/)
 # 🛠️ Tech Stack
 - React (Hooks: useState, useEffect, useRef, useMemo)
 - HTML5 Canvas API
