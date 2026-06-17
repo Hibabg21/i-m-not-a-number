@@ -13,6 +13,13 @@ I'm Not a Number is an interactive web experience that visualizes real human dat
 -  A life that mattered
 The goal of this project is to transform cold data into human emotion and awareness.
 
+
+# 🕊️ Experience the Memorial
+Behind every number is a life, a dream, and a story. This interactive visualization is designed to bridge the gap between raw data and human empathy. 
+**[Click here to experience the memorial live](https://remembre-us.netlify.app/)**
+
+
+
 # ✨ Features
 - 🎨 Real-time canvas visualization of thousands of points
 - 🔍 Search by name
