@@ -16,7 +16,7 @@ The goal of this project is to transform cold data into human emotion and awaren
 
 # 🕊️ Experience the Memorial
 Behind every number is a life, a dream, and a story. This interactive visualization is designed to bridge the gap between raw data and human empathy. 
-**[Click here to see the memorial live](https://remember-them.netlify.app/)**
+**[Click here to see the memorial live](https://remember-each-life.netlify.app/))**
 
 
 
